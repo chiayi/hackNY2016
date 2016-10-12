@@ -1,0 +1,47 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 980M (ID=0x13d7)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity\Projects\HackNY3\Final\HackGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity\Projects\HackNY3\Final\HackGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity\Projects\HackNY3\Final\HackGame_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Unity\Projects\HackNY3\Final\HackGame_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Unity\Projects\HackNY3\Final\HackGame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity\Projects\HackNY3\Final\HackGame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity\Projects\HackNY3\Final\HackGame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity\Projects\HackNY3\Final\HackGame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Unity\Projects\HackNY3\Final\HackGame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Unity\Projects\HackNY3\Final\HackGame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Unity\Projects\HackNY3\Final\HackGame_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Unity\Projects\HackNY3\Final\HackGame_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: D:\Unity\Projects\HackNY3\Final\HackGame_Data\Managed\LeapCSharp.NET3.5.dll (this message is harmless)
+Loading D:\Unity\Projects\HackNY3\Final\HackGame_Data\Managed\LeapCSharp.NET3.5.dll into Unity Child Domain
+- Completed reload, in  0.172 seconds
+Platform assembly: D:\Unity\Projects\HackNY3\Final\HackGame_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Unity\Projects\HackNY3\Final\HackGame_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI.Hid> Failed to create device file:
+ 2 The system cannot find the file specified.
+
+ 
+(Filename:  Line: 54)
+
+<RI.Hid> Failed to create device file:
+ 2 The system cannot find the file specified.
+
+ 
+(Filename:  Line: 54)
+
+<RI> Input initialized.
+<RI> Initialized touch support.
+ovr_Create(&m_session, &luid) failed: The given HMD doesn't exist.
+Failed to create Oculus Session.Compositor failed to initialize.ovr_Create(&m_session, &luid) failed: The given HMD doesn't exist.
+Failed to create Oculus Session.Compositor failed to initialize.UnloadTime: 0.605953 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 41d8 -> priority: 1 
+  Thread -> id: eac -> priority: 1 
